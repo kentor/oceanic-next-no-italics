@@ -1,0 +1,26 @@
+{
+    "name": "theme-oceanic-next-no-italics",
+    "displayName": "Oceanic-Next-No-Italics",
+    "description": "Oceanic Next Theme with no italics",
+    "version": "1.0.1",
+    "publisher": "kentor",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Next No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic-Next-No-Italics.tmTheme"
+            }
+        ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kentor/oceanic-next-no-italics"
+    }
+}
